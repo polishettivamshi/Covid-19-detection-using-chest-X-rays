@@ -1,0 +1,6 @@
+# streamlit==1.45.1
+matplotlib==3.8.4
+tensorflow==2.15.0
+numpy==1.26.4
+streamlit==1.25.0
+tornado==6.1
